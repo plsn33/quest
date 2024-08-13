@@ -3,7 +3,7 @@
    $nome = addslashes($_POST['nome']);
    $email = addslashes($_POST['e-mail']);
    $telefone = addslashes($_POST['Telefone']);
-   $digite = addslashes($_POST['digite'])
+   $digite = addslashes($_POST['digite']);
 
    $para = "pedroxdw97@gmail.com";
    $assunto = "Coleta de dados - Teste";
